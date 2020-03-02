@@ -1,0 +1,10 @@
+.button{
+    -fx-border-color: lightgray;
+    -fx-border-width: 0;
+    -fx-background-radius: 0;
+    -fx-background-color: lightgreen;
+    -fx-text-fill: white;
+    -fx-font-size: 40px;
+    -fx-font-family: "Arial";
+    -fx-font-weight: bold;
+}

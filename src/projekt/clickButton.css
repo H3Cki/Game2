@@ -1,0 +1,11 @@
+.button{
+    -fx-border-width: 0;
+    -fx-background-radius: 60;
+    -fx-background-color: transparent;
+    -fx-text-fill: darkgray;
+    -fx-font-size: 40px;
+    -fx-font-family: "Arial";
+    -fx-font-weight: bold;
+    -fx-focus-color: transparent;
+    -fx-faint-focus-color: transparent;
+}

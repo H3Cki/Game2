@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="43.0" prefWidth="150.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="projekt.DSliderController">
+   <children>
+      <Slider fx:id="dslider" layoutY="27.0" prefHeight="25.0" prefWidth="149.0" />
+      <TextField fx:id="dtext" layoutY="2.0" promptText="Mechanical Difficulty" />
+   </children>
+</AnchorPane>

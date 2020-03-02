@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.shape.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.effect.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="52.0" prefWidth="164.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="projekt.ODPickerController">
+   <children>
+      <ComboBox fx:id="odcombo" layoutY="27.0" prefWidth="150.0" visibleRowCount="3" />
+      <TextField fx:id="odtext" layoutX="1.0" layoutY="2.0" />
+      <Circle fx:id="circle" fill="#ffffff00" layoutX="176.0" layoutY="26.0" radius="26.0" stroke="#c9c9c9" strokeType="INSIDE" />
+   </children>
+</AnchorPane>
